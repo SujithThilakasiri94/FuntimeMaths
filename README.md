@@ -1,0 +1,2 @@
+# FuntimeMaths
+Mathematical Questioner game
